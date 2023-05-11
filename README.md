@@ -1,2 +1,2 @@
-Thia is a testb for changes in read me file 
+This is a change for merge conflict
 # best-repo-ever
